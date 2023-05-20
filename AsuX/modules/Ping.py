@@ -1,6 +1,6 @@
 """
 ɢɪᴛʜᴜʙ -Abishnoi69
-ᴛᴇʟᴇɢʀᴀᴍ @Abishnoi1M / @Abishnoi_bots 
+ᴛᴇʟᴇɢʀᴀᴍ @DXinfo143 / @Abishnoi_bots 
 
 """
 import time
@@ -32,8 +32,8 @@ async def ping(update: Update, context: ContextTypes.DEFAULT_TYPE):
             [
                 [
                     InlineKeyboardButton(
-                        text="sᴏᴜʀᴄᴇ",
-                        url=f"https://github.com/Abishnoi69/AsuX",
+                        text="⚡CHAT⚡GROUP⚡",
+                        url=f"https://t.me/DXinfo143",
                     )
                 ]
             ]
